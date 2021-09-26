@@ -1,0 +1,30 @@
+
+body{
+    background-color: seashell;
+}
+div{
+    width: 50rem;
+    border: black solid 1px;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background-color: white;
+}
+.ipsum{
+   background-color: rgb(255, 210, 158); 
+   font-weight: bold;
+   padding: 0rem 5pt 0px 5pt;
+}
+.quis{
+    background-color: rgb(253, 255, 133);
+    font-weight: bold;
+    padding: 0rem 5pt 0px 5pt;
+}
+div.dashed{
+    border: dashed 2px;
+}
+p{
+   border: dashed red 2px ;
+}
+.purple{
+    color: rgb(160, 13, 160);
+}
